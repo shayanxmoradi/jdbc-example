@@ -21,4 +21,5 @@ public interface BaseEntityRepository {
     void deleteById(Long id);
 
     boolean existsById(Long id);
+
 }
